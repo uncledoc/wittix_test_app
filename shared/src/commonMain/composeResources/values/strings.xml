@@ -1,0 +1,38 @@
+<resources>
+    <string name="title">Send funds</string>
+    <string name="subtitle">How much do you want to send?</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_cards">Debit cards</string>
+    <string name="menu_statement">Statement</string>
+    <string name="menu_dashboard">Dashboard</string>
+
+    <string name="send">You send</string>
+    <string name="balance">Balance: </string>
+    <string name="available_balance">Available Balance: </string>
+
+    <string name="receive">Recipient gets</string>
+    <string name="rate">Estimated exchange rate</string>
+
+    <string name="rate_desc">Exchange rates are real time and mid-market. The values provided are estimates and may change at the time of actual execution.</string>
+
+    <string name="options">Transfer Options</string>
+    <string name="regular">Regular</string>
+    <string name="express">Express (+€50)</string>
+
+    <string name="purpose">Purpose</string>
+    <string name="purpose_payment">Payment Purpose</string>
+
+    <string name="doc">Supported Documents:</string>
+    <string name="doc_upload">Upload Document</string>
+    <string name="doc_upload_allowed">File types allowed: JPEG, JPG, PNG, PDF, DOC, DOCX.</string>
+    <string name="doc_upload_desc">* Up to 10 files allowed.</string>
+
+    <string name="save">Save Beneficiary</string>
+    <string name="agree">By selecting the checkbox below, I acknowledge and agree that Wittix UAB and/or its subsidiaries ("WTX") operate sol... </string>
+    <string name="read_more">Read more</string>
+    <string name="button_send">Transfer Review</string>
+
+
+    <string name="back">Back</string>
+</resources>
